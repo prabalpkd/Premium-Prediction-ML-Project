@@ -2,7 +2,9 @@
 
 This project predicts **Medical Insurance Premiums** based on demographic, health, and lifestyle factors using advanced machine learning techniques. It includes thorough EDA, model experimentation, hyperparameter tuning, segmentation-based modeling, and an interactive **Streamlit app** for real-time predictions.
 
-![App Screenshot](./Screenshot%202025-07-31%20091949.png)
+![App Screenshot](https://github.com/prabalpkd/Premium-Prediction-ML-Project/blob/main/Snapshot.png)
+
+![App Link](https://premium-prediction-ml-project-regression.streamlit.app/)
 
 ---
 
