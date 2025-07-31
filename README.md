@@ -4,7 +4,10 @@ This project predicts **Medical Insurance Premiums** based on demographic, healt
 
 ![App Screenshot](https://github.com/prabalpkd/Premium-Prediction-ML-Project/blob/main/Snapshot.png)
 
-![App Link](https://premium-prediction-ml-project-regression.streamlit.app/)
+## 🔗 Live Demo
+
+Check out the live Streamlit app here: [Medical Insurance Cost Predictor](https://premium-prediction-ml-project-regression.streamlit.app/)
+
 
 ---
 
